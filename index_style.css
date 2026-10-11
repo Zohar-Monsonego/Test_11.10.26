@@ -1,0 +1,147 @@
+/* .page {
+  height: 800px;
+  border: 3px solid black;
+} */
+
+/* Font styles */
+.open-sans-font-list {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+#website_header {
+  position: relative;
+}
+
+#logo_img {
+  position: absolute;
+  margin-top: 4px;
+}
+
+#header_p {
+  position: absolute;
+  /* display: inline-block; */
+  margin-left: 32px;
+  margin-top: 7px;
+  float: left;
+}
+
+.arrow_icon {
+  position: absolute;
+  margin-bottom: 5px;
+  color: #b7b7b7;
+  margin-left: 100px;
+  display: inline-block;
+}
+
+#header_list {
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 6px;
+  color: #868080;
+}
+
+.text_row {
+  padding-left: 20px;
+  font-family: sans-serif;
+}
+
+#log_in_box {
+  position: absolute;
+  display: inline-block;
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  width: 70px;
+  height: 29px;
+  border-radius: 25px;
+  margin-left: 1220px;
+}
+
+#log_in {
+  margin-left: 15px;
+  margin-top: 7px;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+#sign_up_box {
+  position: absolute;
+  border: 2px solid #b7b7b7;
+  width: 120px;
+  height: 25px;
+  border-radius: 25px;
+  margin-left: 1300px;
+}
+
+#sign_up {
+  margin-left: 12px;
+  font-family: sans-serif;
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+.material-symbols-outlined {
+  position: absolute;
+  color: black;
+  margin-left: 1000px;
+}
+
+main {
+  position: relative;
+}
+
+#p_of_main {
+  position: absolute;
+  display: inline-block;
+  color: black;
+  font-family: sans-serif;
+  margin-left: 500px;
+  font-size: 35px;
+  margin-top: 200px;
+}
+/* 
+#main_box {
+  position: absolute;
+  border: 2px solid #b7b7b7;
+  border-radius: 30px;
+  height: 80px;
+  width: 600px;
+  margin-top: 270px;
+  margin-left: 420px;
+} */
+
+#input_box {
+  position: absolute;
+  border: 2px solid #b7b7b7;
+  border-radius: 30px;
+  height: 80px;
+  width: 600px;
+  margin-top: 270px;
+  margin-left: 420px;
+}
+
+#input_text {
+  position: absolute;
+  color: #b7b7b7;
+  font-family: sans-serif;
+  margin-left: 443px;
+  margin-top: 285px;
+}
+
+#attach_box {
+  position: absolute;
+  border: 2px solid #b7b7b7;
+  width: 60px;
+  height: 30px;
+  margin-top: 317px;
+  margin-left: 435px;
+  border-radius: 25px;
+}
+
+#attach_icon {
+  position: absolute;
+}
