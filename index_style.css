@@ -61,6 +61,7 @@ body {
   color: gray;
   font-size: 14px;
   margin-left: 20px;
+  border-bottom: none;
 }
 
 .log_in {
