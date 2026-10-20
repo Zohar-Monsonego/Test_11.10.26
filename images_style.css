@@ -1,0 +1,237 @@
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.saira-font {
+  font-family: "Saira", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+body {
+  margin: 0;
+}
+
+.images_page {
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  border: 4px solid black;
+  background: linear-gradient(to right, rgb(238, 205, 238), rgb(243, 225, 191));
+}
+
+.web_header {
+  position: relative;
+  width: 100%;
+}
+
+.logo_img {
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.website_name {
+  position: absolute;
+  font-family: sans-serif;
+  font-size: 14px;
+  margin-top: 13px;
+  margin-left: 40px;
+}
+
+.arrow_icon {
+  display: inline-block;
+  color: gray;
+  margin-left: 100px;
+  margin-top: 13px;
+  font-size: 16px !important;
+}
+
+.log_in {
+  display: inline-block;
+  width: 60px;
+  height: 30px;
+  background-color: black;
+  border-radius: 15px;
+  margin-top: 0px;
+  margin-left: 1130px;
+}
+
+.log_in_p {
+  color: white;
+  font-size: 12px;
+  margin-left: 12px;
+  margin-top: 5px;
+}
+
+.sign_up {
+  position: absolute;
+  width: 110px;
+  height: 29px;
+  background-color: white;
+  border: 1px solid rgb(216, 210, 210);
+  border-radius: 15px;
+  top: 10px;
+  margin-left: 1320px;
+}
+
+.sign_up_p {
+  color: black;
+  font-size: 12px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.help_icon {
+  position: absolute;
+  color: black;
+  margin-top: 17px;
+  margin-left: 128px;
+  font-size: 18px !important;
+}
+
+.main_h1 {
+  color: black;
+  font-size: 24px;
+  margin-left: 26%;
+}
+
+.second_h {
+  color: black;
+  display: inline-block;
+  font-size: 18px;
+  margin-left: 26%;
+}
+
+.div_white_circles {
+  display: inline-block;
+  margin-left: 400px;
+}
+
+.white_circle {
+  display: inline-block;
+  vertical-align: middle;
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+  background-color: white;
+  border: 1px solid rgb(216, 210, 210);
+}
+
+.arrow_back_icon {
+  font-size: 12px !important;
+  margin-left: 11px;
+  margin-top: 8px;
+}
+
+.arrow_forward_icon {
+  font-size: 12px !important;
+  margin-left: 10px;
+  margin-top: 8px;
+}
+
+.main_gallery {
+  margin-left: 25.5%;
+}
+
+.gallery_figures {
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 0px;
+}
+
+.gallery_img {
+  border-radius: 10px;
+}
+
+.captions {
+  color: gray;
+  text-align: center;
+}
+
+.bottom_part_h2 {
+  color: black;
+  display: inline-block;
+  font-size: 18px;
+  margin-left: 25.5%;
+}
+
+.row_card {
+  position: relative;
+}
+
+.bottom_img {
+  position: absolute;
+  border-radius: 10px;
+}
+
+.bottom_card_p {
+  position: absolute;
+  color: gray;
+  font-size: 14px;
+}
+
+.img1 {
+  margin-left: 25.5%;
+}
+
+.p1 {
+  margin-left: 29%;
+  margin-top: 8px;
+}
+
+.img2 {
+  margin-left: 25.5%;
+  margin-top: 55px;
+}
+
+.p2 {
+  margin-left: 29%;
+  margin-top: 65px;
+}
+
+.img3 {
+  margin-left: 25.5%;
+  margin-top: 110px;
+}
+
+.p3 {
+  margin-left: 29%;
+  margin-top: 120px;
+}
+
+.img4 {
+  margin-left: 50%;
+  margin-top: 0px;
+}
+
+.p4 {
+  margin-left: 53.5%;
+  margin-top: 8px;
+}
+
+.img5 {
+  margin-left: 50%;
+  margin-top: 55px;
+}
+
+.p5 {
+  margin-left: 53.5%;
+  margin-top: 65px;
+}
+
+.img6 {
+  margin-left: 50%;
+  margin-top: 110px;
+}
+
+.p6 {
+  margin-left: 53.5%;
+  margin-top: 120px;
+}
